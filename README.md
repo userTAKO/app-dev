@@ -1,6 +1,6 @@
-1. # 12 Strong
+1. # | 12 Strong | The Declassified True Story Of The Horse Soldier |
 2. ![12 Strong](IOP.jpg)
-3. **12 Strong is a 2018 American action-war film directed by Nicolai Fuglsig and written by Ted Tally and Peter Craig. The film is based on Doug Stanton's non-fiction book Horse Soldiers, which tells the story of U.S. Army Special Forces sent to Afghanistan immediately after the September 11 attacks. The film stars Chris Hemsworth, Michael Shannon, Michael Peña, Navid Negahban, Trevante Rhodes, Geoff Stults, Thad Luckinbill, Ben O'Toole, William Fichtner, and Rob Riggle.**
+3. 12 Strong is a 2018 American action-war film directed by Nicolai Fuglsig and written by Ted Tally and Peter Craig. The film is based on Doug Stanton's non-fiction book Horse Soldiers, which tells the story of U.S. Army Special Forces sent to Afghanistan immediately after the September 11 attacks. The film stars Chris Hemsworth, Michael Shannon, Michael Peña, Navid Negahban, Trevante Rhodes, Geoff Stults, Thad Luckinbill, Ben O'Toole, William Fichtner, and Rob Riggle.
 4. **12 Strong Characters:**
    - Chris Hemsworth
    - Captain Mitch Nelson
