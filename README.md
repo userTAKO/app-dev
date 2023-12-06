@@ -10,4 +10,4 @@
    - Sam Diller
    - Navid Negahban
    - General Dostum
-6. [12 Strong](https://www.bing.com/ck/a?!&&p=8840bf810ffb160cJmltdHM9MTcwMTczNDQwMCZpZ3VpZD0wMTM1MzE1OS04ZGNhLTY3ZmEtMDYxNi0yMjg2OGM2NTY2YmYmaW5zaWQ9NTIxMw&ptn=3&ver=2&hsh=3&fclid=01353159-8dca-67fa-0616-22868c6566bf&psq=12+strong+2018&u=a1aHR0cHM6Ly93d3cuaW1kYi5jb20vdGl0bGUvdHQxNDEzNDkyLw&ntb=1)  
+6. Movie Link:[12 Strong](https://www.bing.com/ck/a?!&&p=8840bf810ffb160cJmltdHM9MTcwMTczNDQwMCZpZ3VpZD0wMTM1MzE1OS04ZGNhLTY3ZmEtMDYxNi0yMjg2OGM2NTY2YmYmaW5zaWQ9NTIxMw&ptn=3&ver=2&hsh=3&fclid=01353159-8dca-67fa-0616-22868c6566bf&psq=12+strong+2018&u=a1aHR0cHM6Ly93d3cuaW1kYi5jb20vdGl0bGUvdHQxNDEzNDkyLw&ntb=1)  
